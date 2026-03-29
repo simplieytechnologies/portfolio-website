@@ -83,6 +83,7 @@ export default function SiddharthPortfolioWebsite() {
   ];
 
   return (
+	<div className="bg-black text-white min-h-screen p-6">
     <div className="min-h-screen bg-slate-950 text-white">
       <section className="relative overflow-hidden border-b border-white/10">
         <div className="absolute inset-0 bg-gradient-to-br from-sky-500/20 via-slate-950 to-cyan-400/10" />
